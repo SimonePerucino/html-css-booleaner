@@ -1,4 +1,4 @@
-/* 1° parte */
+
 .sfondo-int{
     background-image: url('img/pattern.png');
     background-size:auto;
@@ -18,7 +18,7 @@
     height: 20%;
 }
 
-.contenitore-int{
+.contenitore{
     width: 80%;
     margin: auto;
 
@@ -31,4 +31,9 @@
 .lightblue{
     color: #20a9e5;
 }
-/* fine 1° */
+
+
+.foto{
+width: 49%;
+height: 500px;
+}
